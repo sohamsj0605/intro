@@ -6,3 +6,5 @@ bannanas
 almond 
 carrots 
 tomatos
+cereals
+choclate
